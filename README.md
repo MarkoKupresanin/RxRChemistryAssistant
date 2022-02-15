@@ -1,3 +1,3 @@
 # RxRChemicalAssistant
-**Continuation of** Gunnhacks 8.0 Submission
+__**Continuation of**__ Gunnhacks 8.0 Submission
 
